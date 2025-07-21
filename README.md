@@ -4,6 +4,12 @@
 ByteRank is a Flask web app that predicts your coding skill level based on your performance across platforms like LeetCode, GeeksforGeeks, CodeChef, and HackerRank. It uses a trained machine learning model (Random Forest Classifier) to classify users into Beginner, Intermediate, or Advanced levels.
 
 ---
+## 🔗 Live App
+
+👉 https://byterank.onrender.com
+
+
+
 
 ## 🔧 Features
 
